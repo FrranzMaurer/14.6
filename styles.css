@@ -1,0 +1,16 @@
+#app {
+	margin: auto;
+	padding: 10px;
+	border: 1px solid blue;
+	max-width: 30%;
+}
+
+button {
+	display: block;
+	margin: auto;
+	width: 30%;
+}
+
+div {
+	text-align: center;
+}
